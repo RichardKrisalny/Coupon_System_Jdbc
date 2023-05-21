@@ -1,9 +1,1 @@
-This is a coupon management system.
 
-for test the system:
-you need to set your login credentials to the database in the class "ConnectionPool"
-and run the sql script "testScript.sql" in Mysql (create and insert test data).
-and rum "Program".
-
-for regular work you need also set your login credentials to the database in the class "ConnectionPool"
-and run the sql script "script.sql" in Mysql (create database).
